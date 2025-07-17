@@ -1,0 +1,2 @@
+# Supervised-Machine-Learning-Deep-Learning-in-Python---2nd-NELIREF-Data-Science-AI-Summer-School-2025
+This repository is part of the 2nd NELIREF Data Science &amp; AI Summer School 2025, held on June 28, 2025. The session focused on Supervised Machine Learning &amp; Deep Learning with Python. It introduces key concepts such as regression, classification, neural networks, &amp; model evaluation, equipping learners with practical tools to build predictive models
